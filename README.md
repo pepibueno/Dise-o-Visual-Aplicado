@@ -1,2 +1,2 @@
-# Dise-o-Visual-Aplicado
+# Diseño-Visual-Aplicado
 Diseño web receptivo heredado
